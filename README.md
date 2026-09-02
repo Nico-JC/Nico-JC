@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Nicolas Carbone, un apasionado programador de 21 años de Argentina, siempre en busca de nuevos desafíos y oportunidades para seguir creciendo. <br> Soy estudiante de Análisis de Sistemas. Mi objetivo es contribuir a proyectos innovadores, resolver problemas complejos y seguir aprendiendo cada día. Siempre estoy dispuesto a participar en equipos de trabajo, donde pueda compartir mis conocimientos y adquirir nuevas habilidades.<br>
+¡Hola! Soy Nicolas Carbone, un apasionado programador de 22 años de Argentina, siempre en busca de nuevos desafíos y oportunidades para seguir creciendo. <br> Soy estudiante de Análisis de Sistemas. Mi objetivo es contribuir a proyectos innovadores, resolver problemas complejos y seguir aprendiendo cada día. Siempre estoy dispuesto a participar en equipos de trabajo, donde pueda compartir mis conocimientos y adquirir nuevas habilidades.<br>
 
 
 ## 🌐 Socials:
